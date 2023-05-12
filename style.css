@@ -11,5 +11,35 @@
     font-size: 15px;
     font-weight: 100;
     font-family: Arial, Helvetica, sans-serif;
+    opacity: 70%;
 }
 
+.MikaelNogueira {
+    margin-top: 33px;
+    opacity: 70%;
+}
+
+.lorem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: 33px;
+    opacity: 70%;
+    line-height: 25px;
+    width: 400px;
+}
+
+svg {
+    color: gray;
+    width: 20px;
+}
+
+.red {
+    margin-top: 40px;
+    background-color: rgb(226, 76, 76);
+    height: 50px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+    
+}
