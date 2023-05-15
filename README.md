@@ -24,7 +24,7 @@
   <li>CSS 🎨</li>
 </ul>
 <p>Author:</p>
-<p>This project was developed by Mikael Nogueira as part of his learning portfolio in HTML and CSS. 🚀</p>
+<p>This project was developed by Mikael Nogueira, as part of his CSS learning portfolio. This challenge was proposed by <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc&list=WL&index=1"><u>SuperSimpleDev</u></a> with the aim of teaching HTML and CSS in a simple and high-quality way.</p>
 <p>Social media:</p>
 <ul>
   <li>Instagram: <a href="https://www.instagram.com/nog.mikael/">@nog.mikael 📷</a></li>
